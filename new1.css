@@ -1,0 +1,70 @@
+.main{
+	width: 1100px;
+	margin: 0 auto;
+}
+
+.main1{
+	width: 1300px;
+	margin: 0 auto;
+}
+.ovrflw{
+	display: block;
+	overflow: hidden;
+	box-shadow: 2px 6px 13px 0px #fb0000
+}
+
+.round1{
+	width: 250px;
+	height: 250px;
+	background: #ddd;
+	float: left;
+}
+
+.round2{
+	width: 250px;
+	height: 250px;
+	background: #ddd;
+	float: left;
+	margin-left: 30px;	
+}
+
+.round3{
+	width: 250px;
+	height: 250px;
+	background: #ddd;
+	float: right;
+	margin-left: 35px;
+}
+
+.round4{
+	width: 250px;
+	height: 250px;
+	background: #ddd;
+	float: right;
+}
+
+.box1{
+	width: 400px;
+	height: 400px;
+	background: #ddd;
+	float: left;
+	margin: 0 auto;
+	margin-block: 5%;
+}
+
+.box2{
+	width: 400px;
+	height: 400px;
+	background: #ddd;
+	float: left;
+	margin-left: 50px;
+	margin-block: 5%;
+}
+.box3{
+	width: 400px;
+	height: 400px;
+	background: #ddd;
+	float: right;
+	margin: 0 auto;
+	margin-block: 5%;
+}
